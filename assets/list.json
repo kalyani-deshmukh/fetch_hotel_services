@@ -1,0 +1,77 @@
+[
+      {
+        "title": "wifi available",
+        "leading": "wifi",
+        "trailing": true
+      },
+      {
+        "title": "Nice spa",
+        "leading": "spa",
+        "trailing": false
+      },
+      {
+        "title": "Dry cleaning",
+        "leading": "dry_cleaning",
+        "trailing": false
+      },
+      {
+        "title": "Valet parking",
+        "leading": "local_parking",
+        "trailing": true
+      },
+      {
+        "title": "Room Service",
+        "leading": "room_service",
+        "trailing": true
+      },
+      {
+        "title": "Doctor on call",
+        "leading": "medical_services",
+        "trailing": true
+      },
+      {
+        "title": "Catering services",
+        "leading": "lunch_dining",
+        "trailing": true
+      },
+      {
+        "title": "Bar",
+        "leading": "local_drink",
+        "trailing": true
+      },
+      {
+        "title": "Sauna and steam bath",
+        "leading": "shower",
+        "trailing": true
+      },
+      {
+        "title": "Ticket service",
+        "leading": "airplane_ticket",
+        "trailing": true
+      },
+      {
+        "title": "Fitness room",
+        "leading": "fitness_center",
+        "trailing": true
+      },
+      {
+        "title": "Luggage storage",
+        "leading": "luggage",
+        "trailing": true
+      },
+      {
+        "title": "Flower arrangement",
+        "leading": "nature",
+        "trailing": true
+      },
+      {
+        "title": "Ironing service",
+        "leading": "iron",
+        "trailing": true
+      },
+      {
+        "title": "Mail services",
+        "leading": "mail",
+        "trailing": true
+      }
+]
